@@ -1,0 +1,36 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Principale</title>
+</head>
+<body>
+    <h1>Vive le Rafale</h1>
+    <p><a href="page1.html">Aller à la première page</a></p>
+    <p><a href="page2.html">Aller à la deuxième page</a></p>
+</body>
+</html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Première Page</title>
+</head>
+<body>
+    <h1>Première Page</h1>
+    <p><a href="index.html">Retour à la page principale</a></p>
+    <img src="avion_fr.jpg" alt="Avion de l'armée française">
+</body>
+</html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deuxième Page</title>
+</head>
+<body>
+    <h1>Deuxième Page</h1>
+    <p><a href="index.html">Retour à la page principale</a></p>
+    <img src="avion_fr.jpg" alt="Avion de l'armée française">
+</body>
+</html>
